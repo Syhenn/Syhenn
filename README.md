@@ -7,7 +7,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belgium.
+I'm from Belgium.
 
 ### :hammer_and_wrench: Languages and Tools :
 
