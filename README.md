@@ -7,8 +7,8 @@
 
 ### :woman_technologist: About Me :
 
-I'm from Belgium.
-
+Hello! I'm Syhen, a Belgian computer science enthusiast. I hold a degree in Computer Science and Systems, and I'm currently pursuing a Master's degree in Industrial Engineering with a focus on Computer Science.
+With a passion for programming and problem-solving, I enjoy exploring various algorithms and techniques, including pathfinding algorithms.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
